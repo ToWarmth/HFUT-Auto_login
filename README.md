@@ -92,7 +92,7 @@ This project is not for any profit-making purpose. And please use it in a proper
 
 ## Reference
 
-[1] [linux怎么设置开机自启动-linux运维-PHP中文网](https://www.php.cn/linux-480523.html#:~:text=linux设置开机自启动的方法：1、在"%2Fetc%2Frc.local"文件中添加自启动命令"%2Fusr%2F.%2Fhello.sh"或"cd %2Fopt %26%26.%2Fhello.sh"。,2、在"%2Fetc%2Finit.d"目录下添加自启动脚本。 本教程操作环境：CentOS 6系统、Dell G3电脑。)
+[1] [linux怎么设置开机自启动-linux运维-PHP中文网](https://www.php.cn/linux-480523.html)
 
 [2] [Linux的定时任务设置，看这一篇就够了！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/372043390)
 
